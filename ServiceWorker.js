@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Heartbeat-Clicker-Project-1.0";
 const contentToCache = [
     "Build/Heartbeat-Clicker-Build.loader.js",
-    "Build/Heartbeat-Clicker-Build.framework.js",
-    "Build/Heartbeat-Clicker-Build.data",
-    "Build/Heartbeat-Clicker-Build.wasm",
+    "Build/Heartbeat-Clicker-Build.framework.js.gz",
+    "Build/Heartbeat-Clicker-Build.data.gz",
+    "Build/Heartbeat-Clicker-Build.wasm.gz",
     "TemplateData/style.css"
 
 ];
